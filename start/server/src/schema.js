@@ -49,9 +49,6 @@ const typeDefs = gql `
                     launches: [Launch]
                 }
 
-
-
-
 `
 
 module.exports = typeDefs;
